@@ -28,8 +28,8 @@ def find_skills(text):
     return found
 
 
-def calculate_score(skills):
-    score = len(skills) * 10
+def calculate_score(found):
+    score = len(found) * 10
 
     if score > 100:
         score = 100
