@@ -57,6 +57,7 @@ resume-analyzer/
 - Job description matching  
 
 ---
+TESTED WITH SAMPLE PDF RESUME
 
 ## 👨‍💻 Author
 Rakshith N
